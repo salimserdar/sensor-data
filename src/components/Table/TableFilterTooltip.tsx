@@ -1,4 +1,3 @@
-import React, {useRef} from 'react';
 type TableFilterTooltipProps = {
     handleFilter: Function,
     xPos: number,
